@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ErsultanDev/react-shop/static/css/main.3435c615.chunk.css",
+    "main.js": "/ErsultanDev/react-shop/static/js/main.381e71c4.chunk.js",
+    "main.js.map": "/ErsultanDev/react-shop/static/js/main.381e71c4.chunk.js.map",
+    "runtime-main.js": "/ErsultanDev/react-shop/static/js/runtime-main.0ad3dc95.js",
+    "runtime-main.js.map": "/ErsultanDev/react-shop/static/js/runtime-main.0ad3dc95.js.map",
+    "static/js/2.72c68571.chunk.js": "/ErsultanDev/react-shop/static/js/2.72c68571.chunk.js",
+    "static/js/2.72c68571.chunk.js.map": "/ErsultanDev/react-shop/static/js/2.72c68571.chunk.js.map",
+    "index.html": "/ErsultanDev/react-shop/index.html",
+    "static/css/main.3435c615.chunk.css.map": "/ErsultanDev/react-shop/static/css/main.3435c615.chunk.css.map",
+    "static/js/2.72c68571.chunk.js.LICENSE.txt": "/ErsultanDev/react-shop/static/js/2.72c68571.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad3dc95.js",
+    "static/js/2.72c68571.chunk.js",
+    "static/css/main.3435c615.chunk.css",
+    "static/js/main.381e71c4.chunk.js"
+  ]
+}
